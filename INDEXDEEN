@@ -1,0 +1,428 @@
+Curso de Cloud Computing
+1
+Mencione de forma concreta ventajas y desventajas de Cloud Computing
+a.
+Ventajas:
+i.
+Movilidad: El usuario tiene la posibilidad de acceder a su información desde
+el lugar en el que se encuentre , solo necesita un navegador web.
+ii.
+Cloud le permite al usuario la modalidad de pago por uso.
+iii.
+Cloud permite trabajar de manera colaborativa , en equipo aumentando así
+la productividad.
+b.
+Desventajas:
+i.
+El usuario no puede imponer su manera de trabajo en el sistema cloud. Solo
+elige los planes d
+isponibles dados por el prestador.
+2
+De acuerdo al curso, ¿Qué es cloud computing?
+a.
+Un modelo de entrega y consumo de servicios
+b.
+Cloud computing es un modelo que permite, acceso a una red de un conjunto
+compartido de recursos configurables (e.g. servers, stora
+ge, network, applications,
+and services) estos pueden ser rápidamente provisionados y actualizados con el
+mínimo esfuerzo o la mínima participación de un proveedor de servicio.
+3
+Mencione algunas características de Cloud Computing
+a.
+Pago por Uso
+b.
+Acceso inmedi
+ato a Recursos
+c.
+Flexibilidad
+d.
+Agilidad
+e.
+Disponibilidad
+f.
+Transparencia en cuanto a términos y condiciones
+4
+Explique el modelo de negocio de Cloud
+a.
+Modelo de negocio en el que los usuarios o empresas adquieren este servicio según
+sus necesidades , un servicio ya
+listo sin preocuparse por la infraestructura y
+pagando por el uso real de este.
+5
+¿Cuáles son los pasos necesarios para utilizar e implantar Soluciones Cloud?
+-
+Adaptación de cultura
+-
+Integrarlo en los procesos de la empresa
+-
+Entender el modelo de servicio
+-
+Asumir cambios
+6
+Describe los Tipos de Nube
+a.
+Nube pública :
+Una nube pública ofrece servicio remoto de un tercero, se terceriza la
+responsabilidad y producción del servicio .
+b.
+Nube privada
+: En una nueva privada se replica el modelo del servicio en entorno
+propios , con equipos e infraestructura propia gestionado por su mismo personal.
+Esto se debe a la desconfianza de algunas empresas con los servicios de cloud
+pública.
+c.
+Nube Híbrida :
+Se co
+mbina la nube pública y la nube privada. Este tipo de nube es
+implementada como una estrategia en las empresas , si esta no logra producir a
+tiempo el recurso necesitado podría usar la nube pública para así evitar caer en
+pérdidas de eficiencia , agilidad
+entre otros y por otro lado poseer una nube privada
+para servicios y recursos que la empresa ya maneja y tiene listos.
+d.
+Nube comunitaria:
+Servicio creado y
+prestado por un grupo de socios con interés
+común por ejemplos un grupo de Bancos.
+7
+Comente acerca
+de la seguridad en Cloud
+a.
+En nivel de seguridad depende en realidad del proveedor de Cloud.
+8
+Cuál es el futuro de Cloud Computing
+Las empresas deberán implementar servicios cloud en sus organizaciones si no es posible
+que no puedan seguir progresando y pro
+ductividad se limite. Se buscará la interoperabilidad
+en el servicio de Cloud Computing.Los individuos que usen servicios Cloud podrán lograr
+mejor productividad al adoptar este servicio.
+Diapositivas
+1
+Con sus propias palabras, defina qué es transformación digital
+a.
+Es el uso de la tecnología que genera, almacena y procesa datos.
+b.
+La transformación digital es la reinvención de una organización a través de la
+utilización de la tecnología digital para mejorar
+la forma en que se la organización se
+desempeña y sirve a quienes la constituyen. Digital se refiere al uso de la tecnología
+que genera, almacena y procesa los datos.
+2
+Defina qué es Design Thinking
+a.
+es una metodología para desarrollar la innovación en el di
+seño. permite detectar
+necesidades y buscar una solución.
+-----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+WHAT SHOULD ADOBE DO IN RESPONSE TO CONSUMER COMPLAINTS?
+Pudo seguir ofreciendo los paquetes de software para que mayor cantidad de clientes se sientan 
+satisfechos. La idea es fidelizar a la mayor cantidad posible de clientes para aumentar la rentabilidad de 
+los productos, y perder una cantidad, por poca que sea
+, puede llevar a una mala relación con el cliente 
+en un futuro.
+2. WHY DID ADOBE LAUNCH CREATIVE CLOUD?
+Como parte de su reinvención, que contó con una serie de adquisiciones, Adobe crea una solución que 
+optimiza las campañas de marketing y publicidad digi
+tal, basada en una suscripción mensual, para la 
+Unidad de Negocio de Marketing Digital.
+3. WHAT WOULD BE THE REVENUE IMPACT OF CREATIVE CLOUD?
+Página 7 has encontrado la rpta a la 2 de ADOBE? tu, como siempre :v  obvi
+4. WHAT NEW CAPABILITIES WILL ADOBE N
+EED FOR CREATIVE CLOUD TO BE SUCCESSFUL?
+(Arturo o Fiorella)
+Permitir que el uso de Creative Cloud no sólo este ligado a Internet, sino que cuente con una alternativa 
+para desktop (Cloud híbrida), debido a que algunas de las críticas fueron que si no conta
+ban con 
+Internet no podían trabajar, o que sólo dependan del servidor de Adobe, etc.
+Además explicar que beneficios obtendrían los clientes con este nuevo sistema.
+Esta duda fue la que generó dudas entre los clientes y produjo un descenso en sus ganancias.
+5. WHY DID ADOBE MOVE INTO DIGITAL MARKETING, AND WHAT WERE THE RISK OF THIS 
+MOVE?
+Adobe entró al negocio de marketing digital porque tenían una nueva estrategia de negocio en la que 
+pensaban revolucionar esta área de negocio indicando que iban a tener m
+ayores ingresos.El riesgo de 
+este negocio era que la transición del CC podría tener impactos no deseados en los ingresos para 
+Adobe ya que no se sabía con precisión cómo iban a tomar los usuarios este cambio
+1 / 1
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+MÓDULO 1
+¿Qué es el Cloud Computing?
+Es un modelo de entrega y consumo de servicios, es una manera de acceder a unos recursos o capacidades para beneficio de una empresa o individuo, NO es una tecnología. 
+Hay un consumidor y un prestador, el consumidor busca recursos ya que no los produce, por ello lo busca en un prestador y busca acceder de manera directa que suele ser a través de un navegador, internet o app móvil. No se debe intermediar con humanos, de frente en la web y empezar a consumir el producto.
+Se paga por uso, por consumo en función a la demanda.
+Cloud Computing necesita tecnología para ser implementada y entregada, pero NO es tecnología, es un modelo de relación.
+Palabras clave del Cloud Computing: Flexibilidad, disponibilidad, agilidad, pago por uso, seguridad y control en funcionen de los prestadores.
+¿Qué supone para el cliente final (consumidor)?
+El que consume no participa en la creación o producción del servicio que está consumiendo, no tiene el control de lo que pasa en la producción y tiene que asumir las condiciones de consumo publicadas por el prestador de servicios, leer bien las condiciones de uso, las condiciones del contrato, saber que está consumiendo y quien es el responsable, cuánto cuesta lo que está consumiendo, las condiciones de seguridad y continuidad y recién ahí firmar.
+Se generan ciertos problemas de adopción por el usuario por que no acepta su rol, ya que se quiere meter en la producción o cadena de suministro, NO debería entrar ni replicar el modelo. 
+El Cloud conlleva industria y automatización.
+A veces se llegan acuerdos particulares, pero muy raras veces.
+¿Qué se supone para el prestador?
+Es el que afronta la fuerte inversión, automatiza (el consumidor busca acceder al servicio sin ninguna mano humana, el prestador debe estar con los recursos necesarios para responder ante eso), gobernanza (saber que está ofreciendo y rendimiento, calidad del servicio, cumplimiento con los compromisos, costes) y control. Repone los productos según se va consumiendo.
+En Cloud Computing siempre que no sea gratuito, el usuario paga por el servicio Cloud unas tarifas determinadas en función de la demanda que hace y de lo que va consumiendo.
+Mitos sobre Cloud Computing
+Sale más barato hacer o adquirir cloud: dependiendo de lo que haces, si no tienes necesidad, solo por el momento, por picos se usaría Cloud, por el contrario, si necesitas el recurso 7*7 en mejor armarlo.
+Cloud es seguro y donde están los datos: Dependiendo de quién está dando los servicios de Cloud, si el proveedor es grande es mejor la seguridad. Es más seguro que el servicio Cloud te lo de un tercero a que sea de tu empresa usuario.
+Cloud Computing es mejor que otros:  significa agilidad, escalabilidad, inmediatez. Cloud no es mejor, es otra opción a considerar, ya que es acceso inmediato a un recurso.
+¿Qué dicen los analistas sobre Cloud?
+Diversos analistas consideran que cloud es uno de elementos clave de la transformación que viven los negocios, las empresas y los usuarios.
+Tipos de Nubes
+Se basan en los dueños de los activos que están soportando el servicio
+Públicas: inicio aquí, servicio remoto de un tercero. 
+Privadas: Aplica el modelo de l cloud publica en un entorno exclusivo. Se ofrecen al usuario interno como las áreas o empleados.
+Híbridas: Aquí se ofrecen lo mejor de ambos mundos con una buena capa de integración, se puede acceder a recursos de un tercero para no perder eficiencia, agilidad, capacidad de innovación y los recursos que pueda trabajar internamente (gobernanza, maduro, industrializado, automatizado) las presto de mi propia instalación.
+Comunitaria: plataforma de servicios prestados por un grupo de socios que se juntan por que comparten una misma vocación (ej. Bancos) y solo lo prestan a aquellos en el mismo rubro.
+¿Casos de uso de Cloud?
+Se busca encontrar servicios ya publicados y que existan para aplicarlo en su entorno o empresa. Había dos vertientes: infraestructura y producción y colaboración.
+Cloud permite acceder a las últimas tecnologías 
+¿Un centro de respaldo podríamos considerarlo como caso de uso de Cloud Computing?
+Precisamente este caso se adapta perfectamente por necesitarlo solo en momento puntuales.
+Cifras en el mundo Cloud
+Todo a tiempo real y rápidamente gracias a Cloud Computing. Cloud va creciendo con economía escala, crecimiento exponencial de tecnología personal, escalabilidad gracias a Cloud
+¿El mundo del hosting se ha visto afectado por los proveedores de SaaS?
+En los últimos años han aparecido muchos proveedores de páginas que han cambiado el modelo de negocio por completo.
+Profundizamos algunas cifras en cloud
+ 
+ 
+ 
+
+¿En un proveedor de servicios cloud podemos llegar a pagar por usuario y por hora?
+Cloud permite crear múltiples tipos de pago por uso y licenciamiento.
+Cambios en el servicio tradicional hosting
+Se ha venido comprobando que la adopción de cloud implica un cambio de modelo, y a veces han surgido barreras culturales.
+Economía en Cloud
+Al adoptar cloud se logra agilidad, sin renunciar al control.
+Primeros pasos para una empresa para empezar Cloud
+Esfuerzos culturales, para la adopción del modelo. Tener mucho dinamismo en el catálogo de servicios, las empresas buscan ser más competitivas, no siempre consiguen internamente lo que se necesita.
+Shadow IT: Un empleado o unidad de negocio consumiendo servicios cloud de terceros sin pasar por la vía oficial de la compañía. No es malo, pero no es lo correcto. Puede hasta fomentar la innovación.
+Por dónde empezamos
+•	Cambio cultural, industrialización, automatización, gobernanza, control de lo que esta pasando.
+•	Agilidad, pero sin perder el control.
+•	Flexibilidad sin perder el control de la gobernanza.
+•	Adoptar un modelo cloud implica asumir cambios
+MODULO 2
+Infraestructura como servicio (IaaS) v2
+Es Un modelo de servicio cloud que abstrae recurso de TI como cómputo, almacenamiento, redes, entro otros, y los ofrece como servicios.
+•	Adoptar el modelo Cloud implica asumir cambios
+•	Primera capa: Virtualización abstrae a las aplicaciones del hardware
+ 
+Gestión de un servicio cloud debe automatizarse.
+•	Si se consume de un tercero o el me ofrece las capacidades àra gestionar lo que se despliega ahí o me doto de esas capacidades, si se construye en casa para gobernar y gestionar lo que se está desplegando.
+•	Vigilar rendimiento, consumo con las capacidades automatizadas, si paga algo se podrá identificar donde está el problema y poder solucionarlo
+•	Redimensión de maquinas
+•	Implementacion: Monitorización del consumo del servicio; Monitorización de la calidad del servicio; Gestión de las operaciones de las plataformas y recursos del servicio.
+Profundizamos HDDC vs SDDC
+La decisión sobre HDDC o SDDC depende del tipo de cargas a alojar y su evolución.
+•	SDDC: CENTRO DE DATOS DEFINIDO POR SOFTWARE: utiliza un hardware genérico
+•	HDDC: CENTRO DE DATOS DEFINIDO POR HARDWARE: para requerimientos puntuales o características técnicas claves.
+•	La infraestructura debe ser los más genérica posible, debe ser fácil de operar, de consumir, de encontrar, expandir y hacer crecer, se debe enfocar en las capas más cercanas al servicio.
+•	Software define utiliza un hardware genérico
+ 
+
+Plataforma como servicio (PaaS) v2
+IaaS es la base sobre la cual se implementan y se prestan servicios Paas, pide servicio.
+•	Pedir recursos centradas en la aplicación para construirla, desplegarla y que vaya creciendo.
+•	La plataforma exhibe APIS, consume de la infraestructura tirando del API de infraestructura. Pide a la infraestructura recurso según los vaya necesitando.
+•	Se centra en el servicio, en la aplicación.
+Software como servicio (SaaS)
+SaaS NO es el tipo de cloud que más nivel de abstracción tiene respecto a la infraestructura.
+•	Solo se preocupa en usar el servicio, consume software
+•	Abstracción.
+•	Niveles: Infraestructura, Plataforma, Software
+•	Políticas de Cloud “firts”: si existe una oferta de software como servicio acorde a mis necesidades, la consumo; si no existe, me construyo una aplicación o servicio, pero me abstraigo de la infraestructura o me construyo a medida una.
+•	El API es una extensión que permite ir desarrollando e integrando cosas.
+•	La evolución que se espera es que haya más oferta sectorial orientado a un sector específico.
+Profundizamos Arquitectura IaaS, PaaS
+IaaS
+•	Se debe ofrecer los servicios de arquitectura dependiendo del servicio Cloud que se ofrecerá.
+•	Se apoyan en dos elementos: Gestión del servicio desde el punto de vista como negocio y temas de operaciones.
+•	La clave está en dar un servicio ágil, potente robusto, controlable y fiable.
+•	Para implementar un servicio IaaS NO basta con virtualizar elementos de infraestructura. 
+•	La virtualización es la base de la Infraestructura como servicio
+PaaS:
+•	Se requiere más capas, consume infraestructura a través de un API.
+•	Foco de aplicación, abstrayendo la infraestructura.
+•	Incorpora la capa de abstracción a través de la infraestructura
+•	Se ofrecen al usuario en modo servicio bajo demanda y con escalabilidad.
+
+ 
+
+El navegador como herramienta principal
+•	Las aplicaciones evolucionan gracias al navegador, es una herramienta estándar
+•	Accede a una serie de recursos ya desarrollada.
+•	Debe ser rápida y accesible.
+•	Cambio de desarrollo de las empresas
+•	La abstracción es importante, se debe conseguir ser lo más flexibles posible al ofrecer cosas a los usuarios finales
+•	El navegador es un ejemplo de cómo implementar esa abstracción desde el punto de vista del usuario y su plataforma de usuario
+•	El navegador accede a otras series de funcionabilidades cuando estas online y offline
+•	Desde el navegador NO se puede acceder a aplicaciones cloud SaaS por ser una herramienta estandar.
+Cloudbrokers
+•	Es un modelo de intermediación entre los usuarios de Cloud y los prestadores de Cloud.
+•	Da servicios Cloud y factura por servicios de intermediación.
+•	El responsable de informática suele ser el Cloudbrokers, es el que ayuda al negocio, asesora de como dar salida a la necesidad
+•	Surge por la oferta y la demanda y se tiene que llegar a un intermediario.
+•	Su labor nos ayuda a facilitar el acceso a múltiples proveedores de servicios y tipos de cloud
+MÓDULO 3
+Seguridad en Cloud
+•	Se tiene que entender que se ha contratado
+•	Los proveedores grandes te dan más seguridad
+•	Acceso a mejor tecnología de seguridad
+•	Por seguridad, algunos proveedores dividen la información en diferentes sitios por si hay un robo de información no se pueda acceder a la totalidad de ellas
+•	La seguridad en el usuario es la que más evoluciona
+•	Los proveedores eligen donde se guardan los datos
+•	Se debe leer el contrato, entenderlo es clave, por si se mueven los datos por la seguridad
+•	La seguridad en cloud es algo que es crítico tanto para el usuario como para el prestador.
+Seguridad a nivel de usuario
+•	El usuario sufre una transformación cultural, nuevas formas de trabajar, más seguras.
+•	Empieza a trabajar en la nube, colaborativamente
+•	Se evitan las fugas de información y envíos de correos
+•	Autentificación: se puede identificar con usuario y contraseña para ingresar en varias aplicaciones (single sign on) y doble identificación (a parte de usuario y contraseña, te pide un paso que pueden ser números aleatorios con un dispositivo móvil, por ejemplo).
+•	Dos aspectos importantes de la seguridad a nivel de usuario son la fuga de información y el robo de contraseñas.
+Seguridad a nivel de empresa
+•	Se tiene política de seguridad y lo ideal sería desplegarla y aplicarla única y unificada independientemente de donde tenga que aplicarse (casa, nube de terceros, dispositivos o contextos del usuario).
+•	Mientras más simple y unificado el entorno y modelo en más fácil de proteger
+•	Política única, plataforma que aplique la política de manera integradora y unificadora, libertad los destinos en donde se aplicara la seguridad
+•	Actualmente no es así, hay un intento de política única, y se va aplicando en donde se tiene desplegada la información. (Dispositivos, pendrives), al tener muchas plataformas, se tiene muchos “perímetros” y ya no hay “perímetro” (seguridad en una zona).
+•	Se invierte mucho en perímetros de seguridad, cosa que cada vez existe menos y solo dejan poca inversión en el resto.
+•	Al final se podrá acceder a la información que esta perimetrada y será la inversión en vano.
+•	Se tiene que cambiar la proximidad en el tema se seguridad
+•	En Cloud se esfuerzan en la seguridad
+•	En el área de seguridad se intenta ofrecer tecnología y servicio que integran donde se tiene la información (plataformas propias o de terceros) para que se pueda aplicar la política de seguridad de manera más integradora.
+•	Microsegmentación: aplica seguridad dentro del perímetro, es decir, que no solo se resguarda el perímetro, sino todo lo que hay dentro de ella, TODO. Pero no se puede hacer de golpe, se tiene que automatizar para que sea viable. Se define por software que permite granularidad aplicada a cada átomo de la plataforma este donde este (dispositivo, pc, en el mundo cloud, etc) con una gestión unificadora, centralizada e integradora; se podrá llegar a todas las partes con más solvencia.
+•	Es una capa y hay que buscar la manera de buscar y evitar la intrusión.
+•	En el mundo cloud donde se despliega va la política de seguridad porque está definida por software.
+•	Dada la dispersión de prestadores y plataformas cloud, la seguridad debe definirse y aplicarse por modelos integrados y unificados.
+Profundizamos Seguridad en la empresa
+•	Los ISO permiten considerar el tipo de contenido a tener en cuenta a la hora de decidir la política de seguridad e implementarla.
+•	Las ISO aplican un valor agregado al momento de ofrecer mis servicios
+•	El gobierno de Estados Unidos impuso unas reglas para agencias federales a la hora de consumir conjuntos cloud, también opto una política de CloudFert
+•	CloudFert: Si hay una necesidad o proyecto busca en primera instancia un servicio de cloud si está disponible, consúmelo, sino, se buscará un proyecto o servicio a medida.
+•	Modelo de confianza cero: Como el perímetro no es fácil de ubicar o ya no existe, entonces se opta por la política de confianza cero, es decir que no se puede confiar en nada ni nadie, nada se da por hecho. Se asume que todo hay que filtrar, todos los registros hay que mirarlos. Siempre poner u mecanismo se seguridad.
+•	Por mucho que se intente prevenir el ataque, va a suceder, y por mucho que se intente evitar que tenga éxito, lo va a tener. Por eso no se tiene que quedar en la prevención, sino contenerlo, remedir el ataque o evitar que se propague.
+•	Invertir en mecanismos de prevención NO elimina el riesgo de intrusiones.
+ 
+
+ 
+
+MODULO 4
+Cómo trabajábamos antes y cómo se trabaja ahora
+•	Se puede virtualizar el puesto de escritorio, aunque se siguen necesitando ciertos requisitos software
+•	Máxima disponibilidad a la información
+•	Costumbre a trabajar de otras maneras
+•	Trabajar en colaboración en tiempo real con otros compañeros, a tiempo real
+•	Se puede conectar desde donde sea son el usuario y contraseña o pasos de autentificación
+•	Flexibilidad en innovación en el trabajo, transformación digital
+•	Necesidades de nuevas herramientas
+•	Ser agiles y flexibles teniendo en cuenta que a veces se tendrá que reiniciar la aplicación.
+•	El navegador es una herramienta estándar que cambiará nuestra forma de trabajar; todo el sector tecnológico está orientándose hacia esta herramienta buscando compatibilidad y estandarización.
+Trabajar en la nube
+•	Ya no se abre el correo, sino una herramienta donde están los ficheros
+•	Colaboración a tiempo real
+•	El vídeo se trata de cómo usar la nube, Drive
+Nuevos dispositivos
+•	La herramienta principal es el navegador
+•	Algunas empresas, dependiendo de su perfil, podrían trabajar con solo un navegador en el dispositivo. Depende del puesto y de las necesidades, pero hay muchas empresas que están mejorando sus aplicaciones y adaptando los perfiles para ser capaces de trabajar solo desde navegadores.
+MÓDULO 5
+•	Transformación digital con cloud
+-	Ser más competitivo
+-	No necesitas gastar tanto para entrar y competir
+-	Lo que más usan las empresas en Cloud Pública
+
+•	Ciclo De Vida De Nuevos Servicios Y Competitividad
+-	adaptar el modelo de soluciones y automatizarla
+
+•	Profundizamos Devops
+-	Agilidad y time to market
+-	Método de cascada
+-	Aprovisionamiento ágil
+-	Juntas a desarrolladores y operadores (expertos en explotación de información)
+-	IaaS para hacerlo dinámico ofreciendo una infraestructura deseada.
+-	Contenedores (docket, vmware, mesos y aws)
+-	PaaS para aislar al desarrollador de la complejidad de la infraestructura.
+-	La tecnología ayuda a habilitar este modelo.
+-	Persigue acelerar los ciclos de desarrollo de aplicaciones y servicios
+
+•	Nuevos Perfiles Profesionales
+-	Los perfiles no están desapareciendo, se están transformando.
+
+•	Nuevo Modelo Organizativo
+-	El proyecto el foco está en el resultado.
+-	En los servicios el foco está en los usuarios.
+-	Los silos no permiten una integración organizativa que ponga foco en los usuarios y los servicios.
+
+•	Eficiencia E Innovación
+-	la innovación está dentro de la compañía
+-	No solo se trata de reducir costes y personal, se trata de hacer las cosas de forma diferente
+
+•	Movilidad Empresarial
+-	Ya no hay un perímetro, ahora puedes acceder desde cualquier parte y darle continuidad al negocio.
+-	el usuario y el ejercicio de su actividad profesional lo que adquiera movilidad, y para ello se dotan dispositivos, capacidades de comunicación y servicios.
+-	Aspectos relevantes de una plataforma digital de usuario son: OFERTA DE SERVICIOS A TRAVÉS DE UNA CATÁLOGO.
+
+•	Plataforma Digital De Usuario Y Cloud
+-	se busca la mayor productividad de usuario.
+-	El contexto importa mucho y se rigen en base a las políticas de la empresa.
+-	Seguridad Contextual 
+-	Apoyo en plataformas cloud.
+Waterfall pone foco en el cumplimiento de requisitos de usuario y agile en la entrega rápida de resultados.
+MÓDULO 6
+•	HEALTHCARE
+-	Sanidad Digital, múltiples áreas de aplicación de un modelo digital en procesos sanitarios.
+-	En sistema de salud es un sistema muy regulado
+-	Los procesos se pueden dinamizar y se pueden transformar.
+-	Es posible aplicar el modelo cloud en el ámbito sanitario.
+
+•	RETAIL
+-	Inventario esté expuesto de manera online
+-	Los clientes ahora piden saber qué hay, es decir, saber cuánto de stock hay.
+-	Los consumidores esperan arrancar la compra online, en un canal y terminarlo en otro.
+-	Los consumidores agradecen tener a alguien en las tiendas que lo puedan asesorar.
+-	Experiencia de usuario potenciada por dispositivos móviles, aplicaciones móviles.
+-	Experiencia de personal de una tienda potenciada por la interacción digital.
+-	El modelo cloud potenciará las capacidades y servicios del comerciante, así como su relación con el consumidor.
+
+•	SECTOR MEDIA
+-	Ha sufrido una transformación digital radical
+-	Cambios a la hora de generar y consumir contenidos.
+-	Disponibilidad en tiempo real.
+-	Ahora nos podemos enterar de las cosas que pasan en el mundo, en tiempo real.
+-	Crecimiento exponencial de almacenamiento.
+-	Las empresas de media en su mayoría están en proceso de adaptación.
+-	|QUE PODEMOS ESPERAR
+-	Capacidad de adaptación y flexibilidad.
+-	Interacción con el usuario final
+-	Todo el mundo puede ver en video por streming lo que se le ocurra.
+-	El sector Media puede aprovechar las características de soluciones cloud para cambiar e innovar en su "go to market", ofreciendo diferentes y mejores maneras de que los usuarios accedan a la información.
+-	
+
+•	LOGISTICA
+-	Era caro y poco accesible
+-	El comercio electrónico lo ha cambiado todo, donde Amazon es el player más destacable.
+-	El usuario demanda agilidad y rapidez.
+-	EL e-commerce -> volumen -> competencia -> precios más económicos
+-	El usuario quiere saber dónde está su producto, y qué hora a salido, y darle seguimiento en tiempo real.
+-	El sector cloud ha permitido al sector logística a ofrecer información en tiempo real a sus clientes, como, por ejemplo, la localización de los paquetes y fecha exacta de entrega.
+-	Ejemplos de aplicación del modelo cloud en el sector sanitario podrían ser potenciar la relación con el paciente, la gestión de registros médicos, incluso la atención remota de pacientes.
+-	Ejemplos de aplicación del modelo cloud en el sector de retail podrían ser potenciar la relación entre consumidor y comerciante, ofrecer capacidades de inteligencia de negocio al personal de tienda, aprovechar el despliegue de dispositivos móviles en los establecimientos...
+
+CONCLUSIONES
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
